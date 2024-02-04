@@ -1,0 +1,23 @@
+{
+  "name": "express_stringquery3",
+  "version": "1.0.0",
+  "description": "application will handle query string but will return a given username if one is given",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bejarano03/express_StringQuery3.git"
+  },
+  "author": "Marco Bejarano Oseguera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bejarano03/express_StringQuery3/issues"
+  },
+  "homepage": "https://github.com/Bejarano03/express_StringQuery3#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
